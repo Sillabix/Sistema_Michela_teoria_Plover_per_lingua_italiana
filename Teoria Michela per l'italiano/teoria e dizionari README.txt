@@ -1,0 +1,1 @@
+La teoria Michela "conflict free" per Plover ed il relativo dizionario sono in fase di revisione finale.
