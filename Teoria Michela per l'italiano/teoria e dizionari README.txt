@@ -1,3 +1,3 @@
-Teoria Michela "conflict free" (CF).
+Teoria Michela "conflict free" (CF) per Plover
 
-IN CORSO DI AGGIORNAMENTO
+Conflict free (CF) Michela theory for Plover
