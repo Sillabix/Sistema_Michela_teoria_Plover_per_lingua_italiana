@@ -1,6 +1,6 @@
-Teoria Michela per software Plover
+Teoria Michela per software opensource Plover
 
-Michela theory for Plover software
+Michela theory for opensource Plover software
 
 
 
