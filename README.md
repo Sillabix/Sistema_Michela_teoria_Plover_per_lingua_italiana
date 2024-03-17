@@ -5,4 +5,4 @@ Questa repository contiene la documentazione ed i file dizionario relativi alla 
 This repository contains documentation and dictionary files relating to the Michela-Plover System theory. This theory constitutes a free adaptation of the traditional Michela theory in order to allow the use of the Michela machine with the "Plover" Open Source software.
 
 
-Licensed CC BY-SA 4.0 | © 2019-202
+Licensed CC BY-SA 4.0 | © 2019-2024
