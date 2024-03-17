@@ -1,6 +1,6 @@
-Teoria Michela "conflict free" (CF) per Plover
+Teoria Michela per software Plover
 
-Conflict free (CF) Michela theory for Plover
+Michela theory for Plover software
 
 
 
