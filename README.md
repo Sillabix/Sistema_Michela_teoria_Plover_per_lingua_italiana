@@ -1,8 +1,8 @@
 # Il sistema fonetico Michela / The Michela phonetic system
 
-Questa repository contiene la documentazione ed i file dizionario relativi alla teoria "conflict free" per Sistema Michela. Tale teoria costituisce un libero adattamento della teoria Michela tradizionale al fine di permettere un utilizzo della macchina Michela con il software Open Source "Plover" o per scrittura realtime.  
+Questa repository contiene la documentazione ed i file dizionario relativi alla teoria Michela-Plover. Tale teoria costituisce un libero adattamento della teoria Michela tradizionale al fine di permettere l'utilizzo della macchina Michela con il software Open Source "Plover".  
 
-This repository contains documentation and dictionary files relating to the "conflict free" Michela System theory. This theory constitutes a free adaptation of the traditional Michela theory in order to allow the use of the Michela machine with the "Plover" Open Source software or for realtime writing.
+This repository contains documentation and dictionary files relating to the Michela-Plover System theory. This theory constitutes a free adaptation of the traditional Michela theory in order to allow the use of the Michela machine with the "Plover" Open Source software.
 
 
-Licensed CC BY-SA 4.0 | © 2019-2022
+Licensed CC BY-SA 4.0 | © 2019-202
