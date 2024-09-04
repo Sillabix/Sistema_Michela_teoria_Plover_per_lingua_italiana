@@ -1,0 +1,6 @@
+Principali cambiamenti tra la versione 3.0 e la versione 4.0 dei dizionari Michela_Plover
+
+- nuovo sistema per l'indicazione dei plurali maschili basato sui caratteri accentati
+- nuovo sistema per l'indicazione dei plurali femminili basato basato sull'utilizzo delle combinazioni "RX" ed "RXI"
+- nuovo sistema di fingerspelling sillabico basato su vocali alternative per sillabe con struttura V, CV, CCV, CVV e VC
+- nuovo dizionario revisionato con implementazione delle sigle monosillabiche
